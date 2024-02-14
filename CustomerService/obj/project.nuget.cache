@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBp1b/Jhd9cVG3WF4Ro93y58CYy3lvc9YeG/OwKabUB5p+wLpbq9j/gt9ROKRLrYugsYQAJGtXvasypVn3HrbA==",
+  "success": true,
+  "projectFilePath": "D:\\RSVR Rnd Projects\\TestcontainersDemo\\CustomerService\\CustomerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

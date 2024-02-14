@@ -1,0 +1,13 @@
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\bin\Debug\net8.0\CustomerService.deps.json
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\bin\Debug\net8.0\CustomerService.dll
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\bin\Debug\net8.0\CustomerService.pdb
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\obj\Debug\net8.0\CustomerService.csproj.AssemblyReference.cache
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\obj\Debug\net8.0\CustomerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\obj\Debug\net8.0\CustomerService.AssemblyInfoInputs.cache
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\obj\Debug\net8.0\CustomerService.AssemblyInfo.cs
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\obj\Debug\net8.0\CustomerService.csproj.CoreCompileInputs.cache
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\obj\Debug\net8.0\CustomerService.dll
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\obj\Debug\net8.0\refint\CustomerService.dll
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\obj\Debug\net8.0\CustomerService.pdb
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\obj\Debug\net8.0\ref\CustomerService.dll
+D:\RSVR Rnd Projects\TestcontainersDemo\CustomerService\obj\Debug\net8.0\CustomerService.sourcelink.json
